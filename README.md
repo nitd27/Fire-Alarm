@@ -40,6 +40,9 @@ A cost-effective, efficient, and user-friendly fire detection system developed u
 
 > Ensure all components share a common GND.
 
+## Diagram
+![Circuit Diagram](circuit-diagram.png)
+
 ---
 
 ## 🧾 Arduino Code
@@ -78,3 +81,5 @@ void loop()
   delay(500);
 }
 ```
+## Circuit in Action
+![Circuit in Action](in-action.gif)
